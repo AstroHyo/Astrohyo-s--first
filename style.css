@@ -51,6 +51,15 @@ body {
   display: none;
 }
 
+.result-message {
+  font-size: 1.5rem;
+  background-color: #bd7d48;
+}
+
+.message-percent {
+  background-color: #bd7d48d0;
+}
+
 .image-title-wrap {
   padding: 0 15px 15px 15px;
   color: #222;
@@ -92,7 +101,8 @@ body {
 }
 
 .image-title-wrap {
-  padding: 0 15px 15px 15px;
+
+  padding: 3%;
   color: #222;
 }
 
