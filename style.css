@@ -52,13 +52,15 @@ body {
 }
 
 .result-message {
-  border-radius: 4px;
+  color: #ffffffcb;
+  border-radius: 20px;
   font-size: 1.5rem;
   background-color: #bd7d48;
 }
 
 .message-percent {
-  border-radius: 4px;
+  color: #ffffffcb;
+  border-radius: 20px;
   background-color: #bd7d48d0;
 }
 
