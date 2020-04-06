@@ -52,11 +52,13 @@ body {
 }
 
 .result-message {
+  border-radius: 4px;
   font-size: 1.5rem;
   background-color: #bd7d48;
 }
 
 .message-percent {
+  border-radius: 4px;
   background-color: #bd7d48d0;
 }
 
@@ -101,7 +103,6 @@ body {
 }
 
 .image-title-wrap {
-
   padding: 3%;
   color: #222;
 }
@@ -125,8 +126,7 @@ body {
 }
 
 .remove-image {
-  width: 200px;
-  margin: 0;
+  margin: auto;
   color: #fff;
   background: #18b057;
   border: none;
